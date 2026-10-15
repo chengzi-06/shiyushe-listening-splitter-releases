@@ -4,10 +4,10 @@
 
 [下载最新版](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
 
-当前版本 **v0.3.9**。
+当前版本 **v0.3.10**。
 
-- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.9-Windows-x64.exe)
-- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.9-macOS-AppleSilicon.zip)
+- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.10-Windows-x64.exe)
+- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.10-macOS-AppleSilicon.zip)
 
 ## 安装
 
@@ -15,9 +15,13 @@
 2. Mac：解压ZIP，把ListeningSplitter.app放到应用程序目录，之后固定到程序坞。此包仅支持Apple Silicon。
 3. 默认半自动：导入后检查候选分组、建议题号与中日文草稿，老师试听后合并、拆分、调整并逐组确认，再下载或加入组卷。录音中的提示、停顿和两遍默认保留；只需正文一遍时请人工调整范围。转写草稿请对照正式听力原文。
 
+## 组卷拖入音频
+
+打开“组卷与排序”，把音频拖到素材库的拖入框，即按顺序加入下方所选部分；也可直接拖到目标部分，拖到题目卡片上会插在它前面。支持一次1至50份音频，坏文件单独提示，有效文件继续加入。整卷录音请先切分；拖入不会自动识别题号或删除第二遍，导出前仍需试听确认。
+
 ## 更新
 
-先安装v0.3.9或更新版。顶部“软件更新”提供检查、下载进度和取消。
+先安装v0.3.10或更新版。顶部“软件更新”提供检查、下载进度和取消。
 
 - Windows：下载完成后点击“安装并重启”；正在处理音频或有未保存校稿时会暂缓。
 - Mac：当前可检查、校验下载、打开安装包；仍需手动覆盖应用。正式发布签名尚未齐备，因此未开放自动替换。
