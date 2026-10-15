@@ -4,10 +4,10 @@
 
 [下载最新版](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
 
-当前版本 **v0.3.10**。
+当前版本 **v0.3.11**。
 
-- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.10-Windows-x64.exe)
-- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.10-macOS-AppleSilicon.zip)
+- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.11-Windows-x64.exe)
+- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.11-macOS-AppleSilicon.zip)
 
 ## 安装
 
@@ -21,7 +21,7 @@
 
 ## 更新
 
-先安装v0.3.10或更新版。顶部“软件更新”提供检查、下载进度和取消。
+先安装v0.3.11或更新版。顶部“软件更新”提供检查、下载进度和取消。
 
 - Windows：下载完成后点击“安装并重启”；正在处理音频或有未保存校稿时会暂缓。
 - Mac：当前可检查、校验下载、打开安装包；仍需手动覆盖应用。正式发布签名尚未齐备，因此未开放自动替换。
