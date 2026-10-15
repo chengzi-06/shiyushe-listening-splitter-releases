@@ -4,20 +4,20 @@
 
 [下载最新版](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
 
-当前版本 **v0.3.8**。
+当前版本 **v0.3.9**。
 
-- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.8-Windows-x64.exe)
-- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.8-macOS-AppleSilicon.zip)
+- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.9-Windows-x64.exe)
+- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.9-macOS-AppleSilicon.zip)
 
 ## 安装
 
 1. Windows：运行EXE安装一次，之后从桌面或开始菜单打开。
 2. Mac：解压ZIP，把ListeningSplitter.app放到应用程序目录，之后固定到程序坞。此包仅支持Apple Silicon。
-3. 音频导入后按题试听、细化小句、校对文字；组卷页可排序、套用节奏并导出。
+3. 默认半自动：导入后检查候选分组、建议题号与中日文草稿，老师试听后合并、拆分、调整并逐组确认，再下载或加入组卷。录音中的提示、停顿和两遍默认保留；只需正文一遍时请人工调整范围。转写草稿请对照正式听力原文。
 
 ## 更新
 
-先安装v0.3.8或更新版。顶部“软件更新”提供检查、下载进度和取消。
+先安装v0.3.9或更新版。顶部“软件更新”提供检查、下载进度和取消。
 
 - Windows：下载完成后点击“安装并重启”；正在处理音频或有未保存校稿时会暂缓。
 - Mac：当前可检查、校验下载、打开安装包；仍需手动覆盖应用。正式发布签名尚未齐备，因此未开放自动替换。
