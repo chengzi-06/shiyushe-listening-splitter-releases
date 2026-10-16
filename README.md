@@ -4,10 +4,10 @@
 
 [下载最新版](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
 
-当前版本 **v0.3.11**。
+当前版本 **v0.3.12**。
 
-- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.11-Windows-x64.exe)
-- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.11-macOS-AppleSilicon.zip)
+- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.12-Windows-x64.exe)
+- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.12-macOS-AppleSilicon.zip)
 
 ## 安装
 
@@ -15,13 +15,20 @@
 2. Mac：解压ZIP，把ListeningSplitter.app放到应用程序目录，之后固定到程序坞。此包仅支持Apple Silicon。
 3. 默认半自动：导入后检查候选分组、建议题号与中日文草稿，老师试听后合并、拆分、调整并逐组确认，再下载或加入组卷。录音中的提示、停顿和两遍默认保留；只需正文一遍时请人工调整范围。转写草稿请对照正式听力原文。
 
+## 新版复核与草稿
+
+1. 编辑正文、题号、范围或组卷设置后，会显示“草稿待暂存”；显示“草稿已暂存到本机”才代表已写入草稿记录，尚未正式保存。
+2. 异常退出后，打开软件点击“恢复上次切分”，选择“恢复到编辑框”，核对后逐项保存。草稿不会自动确认题号，也不会跨录音套用；结构变化的旧稿仅供复制参考。
+3. 题目上方“复核导航”可跳转疑点和试听；题目详情的“边界试听”能听原录音切点前后几秒。“试听未保存切点”不会提交拆分。
+4. “查看识别与切分诊断”可区分失败、取消和没有结果，诊断导出不含音频与原文。识别内容和候选边界仍需老师复核。
+
 ## 组卷拖入音频
 
 打开“组卷与排序”，把音频拖到素材库的拖入框，即按顺序加入下方所选部分；也可直接拖到目标部分，拖到题目卡片上会插在它前面。支持一次1至50份音频，坏文件单独提示，有效文件继续加入。整卷录音请先切分；拖入不会自动识别题号或删除第二遍，导出前仍需试听确认。
 
 ## 更新
 
-先安装v0.3.11或更新版。顶部“软件更新”提供检查、下载进度和取消。
+v0.3.8 及更新版可从顶部检查更新。顶部“软件更新”提供检查、下载进度和取消。
 
 - Windows：下载完成后点击“安装并重启”；正在处理音频或有未保存校稿时会暂缓。
 - Mac：当前可检查、校验下载、打开安装包；仍需手动覆盖应用。正式发布签名尚未齐备，因此未开放自动替换。
