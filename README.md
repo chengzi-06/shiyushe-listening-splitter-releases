@@ -4,10 +4,10 @@
 
 [下载最新版](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
 
-当前版本 **v0.3.12**。
+当前版本 **v0.3.13**。
 
-- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/ListeningSplitter-Setup-0.3.12-Windows-x64.exe)
-- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest/download/Shiyushe-ListeningSplitter-v0.3.12-macOS-AppleSilicon.zip)
+- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.13/ListeningSplitter-Setup-0.3.13-Windows-x64.exe)
+- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.13/Shiyushe-ListeningSplitter-v0.3.13-macOS-AppleSilicon.zip)
 
 ## 安装
 
