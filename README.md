@@ -4,10 +4,10 @@
 
 [下载最新版](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
 
-当前版本 **v0.3.13**。
+当前版本 **v0.3.14**。
 
-- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.13/ListeningSplitter-Setup-0.3.13-Windows-x64.exe)
-- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.13/Shiyushe-ListeningSplitter-v0.3.13-macOS-AppleSilicon.zip)
+- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.14/ListeningSplitter-Setup-0.3.14-Windows-x64.exe)
+- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.14/Shiyushe-ListeningSplitter-v0.3.14-macOS-AppleSilicon.zip)
 
 ## 安装
 
@@ -24,7 +24,11 @@
 
 ## 组卷拖入音频
 
-打开“组卷与排序”，把音频拖到素材库的拖入框，即按顺序加入下方所选部分；也可直接拖到目标部分，拖到题目卡片上会插在它前面。支持一次1至50份音频，坏文件单独提示，有效文件继续加入。整卷录音请先切分；拖入不会自动识别题号或删除第二遍，导出前仍需试听确认。
+打开“组卷与排序”，把音频拖到素材库的拖入框，即按顺序加入下方所选部分；也可直接拖到目标部分，拖到题目卡片上会插在它前面。支持一次1至50份音频，坏文件单独提示，有效文件继续加入。素材库拖入和部分内拖入保留为独立素材导入，不会自动删除第二遍；导出前仍需试听确认。
+
+新增“整卷快成”：主拖入区放入单份整卷录音，或点击“整卷快成”，离线识别候选分组与逐句草稿，并按原声提示和固定间隔生成新卷；多文件仍按素材导入。机器提取的单遍正文全部待核对，试听并确认后才能正式导出。已有非空编排与同名卷会保留，失败不提交半份素材。
+
+可打开“拖动组卷”在弹窗中调整顺序和跨部分移动；可批量确认已经试听过的候选组或正文素材，题号冲突和边界疑点仍需逐项处理。默认生成逐句机器草稿，比仅整组草稿需要更多识别时间；在识别设置中可以关闭。
 
 ## 更新
 
