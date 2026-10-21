@@ -4,16 +4,20 @@
 
 [下载最新版](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
 
-当前版本 **v0.3.14**。
+当前版本 **v0.3.15**。
 
-- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.14/ListeningSplitter-Setup-0.3.14-Windows-x64.exe)
-- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.14/Shiyushe-ListeningSplitter-v0.3.14-macOS-AppleSilicon.zip)
+- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.15/ListeningSplitter-Setup-0.3.15-Windows-x64.exe)
+- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.15/Shiyushe-ListeningSplitter-v0.3.15-macOS-AppleSilicon.zip)
 
 ## 安装
 
 1. Windows：运行EXE安装一次，之后从桌面或开始菜单打开。
 2. Mac：解压ZIP，把ListeningSplitter.app放到应用程序目录，之后固定到程序坞。此包仅支持Apple Silicon。
 3. 默认半自动：导入后检查候选分组、建议题号与中日文草稿，老师试听后合并、拆分、调整并逐组确认，再下载或加入组卷。录音中的提示、停顿和两遍默认保留；只需正文一遍时请人工调整范围。转写草稿请对照正式听力原文。
+
+## 素材仓库与撤回
+
+在组卷页点击“素材库”或侧栏“全部素材”，可搜索、筛选、排序、分页和试听，将素材拖到编排位置。移除素材会同步移出当前及已保存编排；最近8次移除可撤回，重启后仍保留。若移除后又修改了编排，撤回只恢复素材并保留新编排，可重新加入。素材备份ZIP包含当前素材与卷子，不包含已移除历史。
 
 ## 新版复核与草稿
 
