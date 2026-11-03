@@ -2,17 +2,24 @@
 
 高考日语听力切分、正文细化、中日文离线识别、音频下载与组卷工具。
 
-[下载最新版](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
+[macOS 12兼容版 v0.3.16](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/tag/v0.3.16) · [常规更新通道 v0.3.15](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/latest)
 
-当前版本 **v0.3.15**。
+## 按系统和芯片下载
 
-- [Windows 64位安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.15/ListeningSplitter-Setup-0.3.15-Windows-x64.exe)
-- [Mac M系列芯片分享包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.15/Shiyushe-ListeningSplitter-v0.3.15-macOS-AppleSilicon.zip)
+| 电脑 | 推荐下载 |
+| --- | --- |
+| Mac Apple M系列（含M1/macOS12.1） | [v0.3.16 macOS12兼容包 · AppleSilicon](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.16/Shiyushe-ListeningSplitter-v0.3.16-macOS12-AppleSilicon.zip) |
+| Mac Intel处理器 | [v0.3.16 macOS12兼容包 · Intel](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.16/Shiyushe-ListeningSplitter-v0.3.16-macOS12-Intel.zip) |
+| Windows 64位 | [常规版v0.3.15安装包](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.15/ListeningSplitter-Setup-0.3.15-Windows-x64.exe) |
+
+v0.3.16是独立Mac兼容分支，最低部署目标为macOS12.0。当前系统运行与组件检查已完成，macOS12.1目标机和真实Intel仍待验证。普通自动更新通道仍为v0.3.15；兼容版通过发布页手动选择macOS12及对应芯片的包更新。
+
+[macOS12安装说明](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.16/INSTALL-MACOS12.md) · [给AI的安装提示词](https://github.com/chengzi-06/shiyushe-listening-splitter-releases/releases/download/v0.3.16/AI-INSTALL-PROMPT-MACOS12.txt)
 
 ## 安装
 
 1. Windows：运行EXE安装一次，之后从桌面或开始菜单打开。
-2. Mac：解压ZIP，把ListeningSplitter.app放到应用程序目录，之后固定到程序坞。此包仅支持Apple Silicon。
+2. Mac：解压ZIP，把ListeningSplitter.app放到应用程序目录，之后固定到程序坞。请按上表选择M系列或Intel兼容包。
 3. 默认半自动：导入后检查候选分组、建议题号与中日文草稿，老师试听后合并、拆分、调整并逐组确认，再下载或加入组卷。录音中的提示、停顿和两遍默认保留；只需正文一遍时请人工调整范围。转写草稿请对照正式听力原文。
 
 ## 素材仓库与撤回
